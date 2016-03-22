@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "54ded562-b976-45f4-8827-2eb948875728++4448",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "54ded562-b976-45f4-8827-2eb948875728++4448" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "54ded562-b976-45f4-8827-2eb948875728++4448" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B118F8AD-FBED-4233-B55B-7EC41A599D41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "54ded562-b976-45f4-8827-2eb948875728++4448" : "projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DataCenterCore",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SaasProject\/tempproject\/20160310095702_89596\/modules\/DataCenterCore\/DataCenterCore.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.letv.cn\/cztv",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54ded562-b976-45f4-8827-2eb948875728++4448"
+    }
+  ]
+}
